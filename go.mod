@@ -1,4 +1,4 @@
-module github.com/innotechdev/mgo-driver
+module github.com/innotechdevops/mgo-driver
 
 go 1.15
 
