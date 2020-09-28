@@ -3,7 +3,7 @@
 ## Install
 
 ```
-$ go get github.com/innotechdev/mgo-driver
+$ go get github.com/innotechdevops/mgo-driver
 ```
 
 ## How to use
